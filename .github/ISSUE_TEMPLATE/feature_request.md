@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for the plugin
-title: ''
+title: "[Feature]"
 labels: feature_request
 assignees: ASangarin
 

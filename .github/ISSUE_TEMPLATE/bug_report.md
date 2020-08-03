@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Report plugin bugs
-title: ''
+title: "[Bug]"
 labels: bug
 assignees: ASangarin
 
