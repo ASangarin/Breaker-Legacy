@@ -1,7 +1,7 @@
 ![Breaker Title](https://i.imgur.com/9vplsiZ.png)
 
 THIS IS THE PAGE FOR THE LEGACY VERSION OF BREAKER.
-FOR THE FREE AND UPDATED VERSION, [CLICK HERE](https://github.com/ASangarin/Breaker).
+FOR THE FREE AND UPDATED VERSION, [CLICK HERE](https://www.spigotmc.org/resources/breaker-2-configurable-breaking-speeds-1-16-1-18.99022/).
 
 Breaker is a simple, yet powerful premium plugin which lets you set block-break speeds for ANY* Minecraft block to whatever you'd like. Want to mine Obsidian quicker? Breaker. Want to make certain wood types harder than others? Breaker can do it.
 
